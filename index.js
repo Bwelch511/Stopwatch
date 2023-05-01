@@ -36,7 +36,7 @@ reset.addEventListener('click', () => {
     hrs = 0;
     min = 0;
     sec = 0;
-    timeDisplay.textContent = "00:25:00"
+    timeDisplay.textContent = "00:00:00"
     
 });
 
